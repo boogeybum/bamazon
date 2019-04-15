@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boogeybum/bamazon.git"
+  },
+  "author": "Clayton Seastrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boogeybum/bamazon/issues"
+  },
+  "homepage": "https://github.com/boogeybum/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.16.0"
+  }
+}
