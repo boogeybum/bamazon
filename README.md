@@ -5,7 +5,7 @@
 * GitHub Repository: https://github.com/boogeybum/bamazon.git
 
 ## About
-* A Node.js based CLI that allows users to simulate the purchase of items listed in a MySQL database via the inquirer npm interface. The number of items mock purchased are subtracted from the inventory updating the database with the remaining number of products. Screenshots of the command line showing the app in practice are located in the 'screenshots' folder and labeled in order.
+* A Node.js based CLI that allows users to simulate the purchase of items listed in a MySQL database via the inquirer npm interface. The number of items mock purchased are subtracted from the inventory updating the database with the remaining number of products. Screenshots of the command line showing the app in practice are located in the 'screenshots' folder and labeled in order. (More screenshots to come)
 
 ## License 
 * No license explicite or implied.
